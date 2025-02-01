@@ -1,6 +1,6 @@
 # SRI
 Proyecto de la materia de sistemas de recomendación de información
-# Equipo #
+
 ## Integrantes
 
 ### Fatima Cocom 
